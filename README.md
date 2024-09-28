@@ -1,17 +1,20 @@
 # Projeto Loja de caderno e livros
 
-## Projeto com fins educativos utilizando Java
-![image](https://github.com/user-attachments/assets/72a29716-4ad4-480a-bca3-442007050824)
+![image](https://github.com/user-attachments/assets/ea3ea1c5-f5d2-4009-9a33-8e3a77303751)
+
 
 ## Objetivo da aplicação
-Se trata de uma aplicação com um prévio cadastro do cliente, com a possibilidade de criar, deletar ou consultar qualquer cliente antes 
-da aplicação ser iniciada.
+Loja de Livros e Cadernos é uma aplicação desenvolvida com o objetivo de praticar minhas habilidades em java.
 
-O sistema faz o gerenciamento de clientes cadastrados, pedidos e produtos criados pelo cliente através da interface do menu.
-É possível cadastrar Produtos (livros ou cadernos). Cada um com características diferentes. 
+### Funcionalidades do projeto
 
-O livro possui Genero e Nome. Já o caderno possui quantidade de materias. Ambos possuem quantidade e código, que por sua vez e gerado automaticamente ao cadastrar um produto.
+Com esse aplicativo podemos efetuar as seguintes rotinas:
 
-O sistema também tem a funcão de listar os pedidos de compras relacionados ao cliente, especificando todos os produtos e preços calculados automaticamente
-atraves da escolha do produto e sua definição de quantidade.
+1 - Cadastro, consulta e exclusao de Clientes para efetuar o login no sistema.
+2 - Cadastro, consulta e exclusao de Produtos, sendo eles Livros ou Cadernos.
+3 - Cadastro, consulta e exclusao de pedidos, que por sua vez são gerados atraves das seleções do usuário após logar no sistema.
+4 - Consultas especializadas por protudo, possibilitando filtrar os Livros por nome e os Cadernos pela Matéria.
+5 - Geração de pedidos criados pelo Usuario (Cliente).
+
+
 
